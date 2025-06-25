@@ -2,6 +2,8 @@
 
 ### Project Overview
 
+![video_game](https://github.com/user-attachments/assets/bcd08591-a363-41bb-af80-4dc0ba318727)
+
 This project analyzes data on video game critic scores, user ratings, and sales for the top 400 video games released since 1977. The goal of this project is to explore whether games are improving over time or if the golden age of video games has already passed. By examining trends in review scores from both critics and users, as well as analyzing global sales data, this project aims to uncover the most celebrated eras in gaming history and provide insights into the business dynamics behind successful games.
 
 ### Data Sources
